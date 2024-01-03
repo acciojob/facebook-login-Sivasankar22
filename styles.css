@@ -1,1 +1,11 @@
-/*  your css code here. If applicable */
+body {
+    background-color: #f0f2f5;
+}
+
+h1, h2 {
+    color: #1877f2;
+}
+
+form {
+    width: 300px;
+}
