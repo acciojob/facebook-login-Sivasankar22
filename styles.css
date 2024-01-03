@@ -1,5 +1,5 @@
- body {
-            background-color: #f6f6f6;
+ body{
+            background-color:#f6f6f6;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -58,3 +58,6 @@
             width: 100%;
             color: white;
         }
+form{
+	background:rgb(255, 255, 255);
+}
